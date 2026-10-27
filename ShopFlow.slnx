@@ -1,0 +1,5 @@
+<Solution>
+  <Folder Name="/labs/">
+    <Project Path="labs/ShopFlow.Labs/ShopFlow.Labs.csproj" />
+  </Folder>
+</Solution>
